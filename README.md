@@ -21,9 +21,7 @@
 
  public class Main {
 
-    //declaring the main method
    public static void main (String[] args){
-       //printing out 
 
        System.out.println("This is Java Basics");
 

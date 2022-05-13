@@ -18,16 +18,12 @@
  Type "java -version"
 
  to run your first code use the template below
-<code>
+
  public class Main {
-
    public static void main (String[] args){
-
        System.out.println("This is Java Basics");
-
        }
-
        }
-    <code/>
+    
 
        //note your file name is main class name the first letter in capitals.
